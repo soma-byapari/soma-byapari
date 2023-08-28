@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Backend development**
 - 🌱 I’m currently learning **Kubernetes and DevOps**
 - 💬 Ask me about **Python**
-- 📫 Reach me **byaparisoma132@gmail.com**
+- 📫 Reach me **byaparisoma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
